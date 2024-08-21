@@ -1,0 +1,27 @@
+table.wp-list-table.widefat.fixed.striped img {
+    width: 100px;
+    height: auto;
+}
+table.wp-list-table.widefat.fixed.striped {
+    margin-top: 20px;
+}
+form.custom_product_search label {
+    margin-right: 10px;
+}
+span.page-numbers.current {
+    background-color: #2271b1;
+    color: #fff;
+}
+.page-numbers {
+    background-color: #fff;
+    padding: 9px 15px;
+    font-size: 14px;
+    border: 1px solid #c3c4c7;
+}
+.tablenav {
+    margin-top: 15px;
+}
+form.custom_product_search input.button.button-secondary {
+    float: right;
+    margin-right: 5px;
+}
